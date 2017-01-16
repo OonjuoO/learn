@@ -9,3 +9,4 @@ Creating a new branch is easy and simple.
 >>>>>>> feature1
 
 oh no!!
+oh yes!!
